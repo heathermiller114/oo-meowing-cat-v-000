@@ -5,6 +5,10 @@ class Cat
   def initialize
     puts "meow!"
   end
+  
+  def meow
+    puts "meow!"
+  end
 end
 
  
