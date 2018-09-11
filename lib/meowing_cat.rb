@@ -2,5 +2,9 @@
 class Cat
   attr_accessor: name
   
-  def meow
+  def initialize(meow)
+    puts "meow!"
+  end
+end
+
     
