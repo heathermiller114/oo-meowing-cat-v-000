@@ -5,5 +5,6 @@ class Cat
   def initialize(name)
     puts "meow!"
   end
+end
 
-Cat.new  
+ 
