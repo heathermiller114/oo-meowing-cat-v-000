@@ -2,9 +2,5 @@
 class Cat
   attr_accessor :name
   
-  def initialize(meow)
-    puts "meow!"
-  end
-end
 
 Cat.new  
